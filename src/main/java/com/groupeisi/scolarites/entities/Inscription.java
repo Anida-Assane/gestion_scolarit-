@@ -6,6 +6,7 @@ public class Inscription {
 	private int id;
 	private Date date;
 	private String classe;
+	
 	public int getId() {
 		return id;
 	}
